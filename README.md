@@ -14,6 +14,8 @@ This splits the workload and may reduce server costs.
 >>> The app downloads → transcribes → translates
 
 >>> All results appear automatically
+
+
 **
 Example simple flow with REST API**
 Server A downloads audio, uploads it to Server B’s /upload_audio endpoint
